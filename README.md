@@ -17,3 +17,8 @@ I added a reset CSS file for more user accessibility with different browsers.
 Lastly, The CSS file was unnecessarily long. Several classes contained the same CSS rules. I managed to reduce the amount of command lines from 198 to 118 by combining these classes into one sequence while upholding the integrity and functionality of the website.
 
 ***
+
+URL of deployment:
+https://bakerwes.github.io/challenge-1/
+
+***
