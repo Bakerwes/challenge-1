@@ -1,6 +1,6 @@
 # challenge-1
 ***
-weekly challenge #1
+Refactoring Code
 ***
 
 This assignment was the first look at refactoring existing code. There was no additional content to be added. However, the task given was to improve the code as well as its overall functionality.
