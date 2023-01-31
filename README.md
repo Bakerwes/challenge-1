@@ -11,7 +11,7 @@ At first glance, I noticed the title within the HTML had a generic name of "Webs
 
 As I was looking over the stucture of the elements within HTML, I noticed a large amount of "div" parental elements. I improved the overall structure of the HTML file by replacing some of these elements with a header, a few sections, and a footer. 
 
-I added alt tags to the images within the HTML to provide a description of the pictures if imagines do not appear on deployment.
+I added alt tags to the images within the HTML to provide a description of the pictures if images do not appear on deployment.
 
 I added a reset CSS file for more user accessibility with different browsers.
 
